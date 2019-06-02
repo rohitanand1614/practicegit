@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am trying to merge again
+=======
+i am trying to test all these shit
+>>>>>>> 06edeb232dca5f974c7031584caed6ee7cc7ea39
